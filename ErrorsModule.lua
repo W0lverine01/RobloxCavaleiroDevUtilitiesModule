@@ -4,3 +4,4 @@ return {
 	[405] = "[%s] - %s",
 	[406] = "[InternalModuleError] - erro interno do module na função %s, erro: %s",
 }
+crinju
